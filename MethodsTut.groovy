@@ -60,7 +60,6 @@ class MethodsTut{
         println("Sum of all nums: "+nums);
 
         def fact=factorial(5);
-        println("Factorial of 5: "+fact);
+        println("Factorial of 5: "+fact)
     }
-    
 }
